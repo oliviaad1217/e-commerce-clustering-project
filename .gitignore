@@ -1,0 +1,19 @@
+# Local datasets
+data/
+Sales Transaction.csv
+
+# Notebook temporary files
+.ipynb_checkpoints/
+__pycache__/
+
+# Trained models and tuning outputs
+*.keras
+*.h5
+my_ae_tuning/
+
+# Local environment
+.venv/
+.env
+
+# macOS files
+.DS_Store
